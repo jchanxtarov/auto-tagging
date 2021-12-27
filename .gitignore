@@ -1,0 +1,17 @@
+Memo.md
+__pycache__/
+.mypy_cache
+.ipynb_checkpoints/
+
+# datasets
+*/datasets/*
+
+# log
+*.log
+test.txt
+
+# Environment
+.env
+.venv
+.vscode
+test.ipynb
